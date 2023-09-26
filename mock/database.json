@@ -1,0 +1,43 @@
+{
+  "pessoas": [
+    {
+      "id": 6,
+      "nomeCompleto": "Juca",
+      "email": "Juca@gmail.com",
+      "cidadeId": 2
+    },
+    {
+      "id": 13,
+      "nomeCompleto": "Maria Silva",
+      "email": "maria@gmail.com",
+      "cidadeId": 3
+    },
+    {
+      "id": 14,
+      "nomeCompleto": "Carlos Silva",
+      "email": "carlos@gmail.com",
+      "cidadeId": 2
+    }
+  ],
+  "cidades": [
+    {
+      "nome": "Piracanjuba",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "nome": "Acre"
+    },
+    {
+      "nome": "Goias",
+      "id": 4
+    },
+    {
+      "nome": "teste",
+      "id": 5
+    }
+  ],
+  "auth": {
+    "accessToken": "aaaaaaaaaa.bbbbbbbbbb.cccccccc"
+  }
+}
